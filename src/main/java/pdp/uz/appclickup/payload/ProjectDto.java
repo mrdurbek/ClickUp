@@ -22,7 +22,7 @@ public class ProjectDto {
     private String color;
 
     @NotNull
-    private Integer space;
+    private Integer spaceId;
 
     @NotNull
     private String accessType;

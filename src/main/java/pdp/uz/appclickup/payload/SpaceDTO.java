@@ -25,17 +25,16 @@ public class SpaceDTO {
     private String color;
 
     @NotNull
-    private Integer workSpace;
+    private Integer workSpaceId;
 
 
     @NotNull
-    private Integer icons;
+    private Integer iconId;
 
-
-    private Integer attachment;
+    private Integer avatartId;
 
     @NotNull
-    private Integer owner;
+    private Integer ownerId;
 
     @NotNull
     private String accessType;
